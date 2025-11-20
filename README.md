@@ -9,10 +9,6 @@ This repository contains comprehensive coursework materials from Level-1, Term-1
 
 ## Academic Information
 
-<div align="center">
-  <img src="https://upload.wikimedia.org/wikipedia/en/b/b6/Bangladesh_University_of_Engineering_and_Technology_logo.png" alt="BUET Logo" width="120"/>
-</div>
-
 <table align="center">
   <tr>
     <td><strong>Institution</strong></td>
